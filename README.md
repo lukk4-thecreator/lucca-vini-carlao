@@ -15,6 +15,6 @@ Biblioteca tkinter (já incluída na maioria das instalações do Python)
 
 Clone o repositório
 
-bash Copiar Editar (https://github.com/lukk4-thecreator/lepra.git) cd seu-repositorio Execute o sistema
+bash Copiar Editar (https://github.com/lukk4-thecreator/lucca-vini-carlao.git) cd seu-repositorio Execute o sistema
 
 bash Copiar Editar python main.py Aproveite! A interface será aberta em tela cheia com todas as funcionalidades já aplicadas.
